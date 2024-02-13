@@ -65,8 +65,8 @@
       <Measure>
         <voice>
           <Clef>
-            <concertClefType>F</concertClefType>
-            <transposingClefType>F</transposingClefType>
+            <concertClefType>G8vb</concertClefType>
+            <transposingClefType>G8vb</transposingClefType>
             <isHeader>1</isHeader>
             <eid>8757438316565</eid>
             <linked>
