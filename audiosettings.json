@@ -51,20 +51,21 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Sopranos",
-                        "museUID": "19",
-                        "playbackSetupData": "voices.choir.soprano"
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Contrabass",
+                        "presetProgram": "43",
+                        "soundFontName": "MS Basic"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Sopranos\\19",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
+                    "id": "MS Basic\\0\\43",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "soprano",
+            "instrumentId": "bass",
             "out": {
                 "auxSends": [
                     {
@@ -81,57 +82,26 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "1"
+            "partId": "4",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Tenors",
-                        "museUID": "21",
-                        "playbackSetupData": "voices.choir.tenor"
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Viola",
+                        "presetProgram": "41",
+                        "soundFontName": "MS Basic"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Tenors\\21",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "tenor",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "2"
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Altos",
-                        "museUID": "20",
-                        "playbackSetupData": "voices.choir.alto"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Altos\\20",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
+                    "id": "MS Basic\\0\\41",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
                 },
                 "unitConfiguration": {
                 }
@@ -153,7 +123,93 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "3"
+            "partId": "3",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Cello",
+                        "presetProgram": "42",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic\\0\\42",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "2",
+            "soloMuteState": {
+                "mute": false,
+                "solo": true
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
+                        "presetName": "Violin",
+                        "presetProgram": "40",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic\\0\\40",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "soprano",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "1",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
         },
         {
             "in": {
@@ -182,42 +238,6 @@
                 "mute": false,
                 "solo": false
             }
-        },
-        {
-            "in": {
-                "resourceMeta": {
-                    "attributes": {
-                        "museCategory": "Muse Choir",
-                        "museName": "Basses",
-                        "museUID": "22",
-                        "playbackSetupData": "voices.choir.bass"
-                    },
-                    "hasNativeEditorSupport": false,
-                    "id": "Muse Choir\\Basses\\22",
-                    "type": "muse_sampler_sound_pack",
-                    "vendor": "Muse Choir"
-                },
-                "unitConfiguration": {
-                }
-            },
-            "instrumentId": "bass",
-            "out": {
-                "auxSends": [
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    },
-                    {
-                        "active": true,
-                        "signalAmount": 0.30000001192092896
-                    }
-                ],
-                "balance": 0,
-                "fxChain": {
-                },
-                "volumeDb": 0
-            },
-            "partId": "4"
         }
     ]
 }
