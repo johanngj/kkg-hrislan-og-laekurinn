@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>7402</LastEID>
+  <LastEID>8948</LastEID>
   <Score>
     <layoutMode>system</layoutMode>
     <Division>480</Division>
@@ -110,7 +110,9 @@
           <name>stdNormal</name>
           </StaffType>
         <defaultClef>G8vb</defaultClef>
+        <isStaffVisible>0</isStaffVisible>
         </Staff>
+      <show>0</show>
       <soloist>1</soloist>
       <trackName>Tenor 2</trackName>
       <Instrument id="tenor">
@@ -162,6 +164,25 @@
         <height>10</height>
         <eid>4294967418</eid>
         <linkedMain/>
+        <Text>
+          <eid>33401960660998</eid>
+          <linkedMain/>
+          <style>title</style>
+          <text>Hríslan og lækurinn</text>
+          </Text>
+        <Text>
+          <eid>33423435497478</eid>
+          <linkedMain/>
+          <style>composer</style>
+          <text>Lag: Ingi T. Lárusson - Úts. Jón Stefánsson
+Texti: Páll Ólafsson</text>
+          </Text>
+        <Text>
+          <eid>33479270072326</eid>
+          <linkedMain/>
+          <style>title</style>
+          <text>Hríslan og lækurinn</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -4420,12 +4441,18 @@
             <eid>3607772528675</eid>
             <linkedMain/>
             </Dynamic>
-          <Rest>
-            <eid>25769803801</eid>
+          <Chord>
+            <eid>36786394890355</eid>
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            </Rest>
+            <Note>
+              <eid>36790689857556</eid>
+              <linkedMain/>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -5346,12 +5373,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <eid>14108967567395</eid>
-            <linkedMain/>
-            </Dynamic>
           <Chord>
             <eid>2177548419187</eid>
             <linkedMain/>
@@ -5836,12 +5857,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <eid>14113262534691</eid>
-            <linkedMain/>
-            </Dynamic>
           <Chord>
             <eid>2388001816691</eid>
             <linkedMain/>

@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>7402</LastEID>
+  <LastEID>8948</LastEID>
   <Score>
     <name>Soprano</name>
     <initialPartId>1</initialPartId>
@@ -85,6 +85,46 @@
           <style>instrument_excerpt</style>
           <text>Soprano</text>
           </Text>
+        <Text>
+          <eid>33406255628294</eid>
+          <linked>
+            </linked>
+          <style>title</style>
+          <text>Hríslan og lækurinn</text>
+          </Text>
+        <Text>
+          <eid>33427730464774</eid>
+          <linked>
+            </linked>
+          <style>composer</style>
+          <text>Lag: Ingi T. Lárusson - Úts. Jón Stefánsson
+Texti: Páll Ólafsson</text>
+          </Text>
+        <Text>
+          <eid>33432025432070</eid>
+          <linked>
+            <indexDiff>-1</indexDiff>
+            </linked>
+          <style>composer</style>
+          <text>Lag: Ingi T. Lárusson - Úts. Jón Stefánsson
+Texti: Páll Ólafsson</text>
+          </Text>
+        <Text>
+          <eid>33483565039622</eid>
+          <linked>
+            <indexDiff>-1</indexDiff>
+            </linked>
+          <style>title</style>
+          <text>Hríslan og lækurinn</text>
+          </Text>
+        <Text>
+          <eid>33487860006918</eid>
+          <linked>
+            <indexDiff>-2</indexDiff>
+            </linked>
+          <style>title</style>
+          <text>Hríslan og lækurinn</text>
+          </Text>
         </VBox>
       <Measure>
         <voice>
@@ -94,17 +134,20 @@
             <isHeader>1</isHeader>
             <eid>7198365188117</eid>
             <linked>
+              <indexDiff>-2</indexDiff>
               </linked>
             </Clef>
           <KeySig>
             <eid>7202660155414</eid>
             <linked>
+              <indexDiff>-2</indexDiff>
               </linked>
             <concertKey>1</concertKey>
             </KeySig>
           <TimeSig>
             <eid>7206955122712</eid>
             <linked>
+              <indexDiff>-2</indexDiff>
               </linked>
             <sigN>3</sigN>
             <sigD>4</sigD>
@@ -112,6 +155,7 @@
           <Rest>
             <eid>7211250090009</eid>
             <linked>
+              <indexDiff>-2</indexDiff>
               </linked>
             <durationType>measure</durationType>
             <duration>3/4</duration>
@@ -2557,13 +2601,20 @@
             <linked>
               </linked>
             </Dynamic>
-          <Rest>
-            <eid>14121852469273</eid>
+          <Chord>
+            <eid>36794984824947</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            </Rest>
+            <Note>
+              <eid>36799279792148</eid>
+              <linked>
+                </linked>
+              <pitch>62</pitch>
+              <tpc>16</tpc>
+              </Note>
+            </Chord>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -3658,13 +3709,6 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>f</subtype>
-            <velocity>96</velocity>
-            <eid>14126147436579</eid>
-            <linked>
-              </linked>
-            </Dynamic>
           <Chord>
             <eid>12305081303155</eid>
             <linked>
@@ -4237,13 +4281,6 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
-          <Dynamic>
-            <subtype>mf</subtype>
-            <velocity>80</velocity>
-            <eid>14130442403875</eid>
-            <linked>
-              </linked>
-            </Dynamic>
           <Chord>
             <eid>12588549144691</eid>
             <linked>

@@ -272,7 +272,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -1
             },
             "partId": "999",
             "soloMuteState": {
