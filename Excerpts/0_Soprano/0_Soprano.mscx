@@ -3130,13 +3130,6 @@ Texti: Páll Ólafsson</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G8vb</concertClefType>
-            <transposingClefType>G8vb</transposingClefType>
-            <eid>38461432135701</eid>
-            <linked>
-              </linked>
-            </Clef>
           </voice>
         </Measure>
       <Measure>

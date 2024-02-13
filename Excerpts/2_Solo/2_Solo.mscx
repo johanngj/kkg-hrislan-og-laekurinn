@@ -677,13 +677,6 @@ Texti: Páll Ólafsson</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
-          <Clef>
-            <concertClefType>G8vb</concertClefType>
-            <transposingClefType>G8vb</transposingClefType>
-            <eid>38465727102997</eid>
-            <linked>
-              </linked>
-            </Clef>
           </voice>
         </Measure>
       <Measure>
