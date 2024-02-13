@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>3284</LastEID>
+  <LastEID>3294</LastEID>
   <Score>
     <name>Soprano</name>
     <initialPartId>1</initialPartId>
@@ -143,16 +143,10 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <span>0</span>
-            <eid>7228429959180</eid>
-            <linked>
-              </linked>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
+        <startRepeat/>
         <voice>
           <Chord>
             <eid>7232724926579</eid>
@@ -1508,6 +1502,7 @@
           </voice>
         </Measure>
       <Measure len="3/16">
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
             <eid>8735963480089</eid>
@@ -1554,19 +1549,20 @@
         </Measure>
       <Measure len="3/8">
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>14117557501987</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Rest>
-            <eid>11527692222489</eid>
+            <eid>14121852469273</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <eid>11531987189772</eid>
-            <linked>
-              </linked>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -2363,6 +2359,13 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>14126147436579</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>12305081303155</eid>
             <linked>
@@ -2791,6 +2794,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>14130442403875</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>12588549144691</eid>
             <linked>

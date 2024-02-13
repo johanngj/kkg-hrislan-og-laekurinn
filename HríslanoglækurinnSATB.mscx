@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>3284</LastEID>
+  <LastEID>3294</LastEID>
   <Score>
     <layoutMode>system</layoutMode>
     <Division>480</Division>
@@ -185,15 +185,10 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <span>0</span>
-            <eid>30064771084</eid>
-            <linkedMain/>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
+        <startRepeat/>
         <voice>
           <Chord>
             <eid>34359738483</eid>
@@ -1396,6 +1391,7 @@
           </voice>
         </Measure>
       <Measure len="3/16">
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
             <eid>1537598291993</eid>
@@ -1437,10 +1433,6 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <eid>10664403795980</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -2493,17 +2485,18 @@
         </Measure>
       <Measure len="3/8">
         <voice>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>3607772528675</eid>
+            <linkedMain/>
+            </Dynamic>
           <Rest>
-            <eid>1567663063065</eid>
+            <eid>25769803801</eid>
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <eid>1571958030348</eid>
-            <linkedMain/>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -3194,6 +3187,12 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>14108967567395</eid>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <eid>2177548419187</eid>
             <linkedMain/>
@@ -3567,6 +3566,12 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>14113262534691</eid>
+            <linkedMain/>
+            </Dynamic>
           <Chord>
             <eid>2388001816691</eid>
             <linkedMain/>
@@ -4309,10 +4314,6 @@
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <eid>11407433138188</eid>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -4380,11 +4381,6 @@
             <eid>13438952669299</eid>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articTenutoAbove</subtype>
-              <anchor>0</anchor>
-              <eid>13443247636511</eid>
-              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <eid>13447542603796</eid>
@@ -4595,11 +4591,6 @@
             <eid>13589276524659</eid>
             <BeamMode>no</BeamMode>
             <durationType>eighth</durationType>
-            <Articulation>
-              <subtype>articTenutoAbove</subtype>
-              <anchor>0</anchor>
-              <eid>13593571491871</eid>
-              </Articulation>
             <StemDirection>down</StemDirection>
             <Note>
               <eid>13597866459156</eid>

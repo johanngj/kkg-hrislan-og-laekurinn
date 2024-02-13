@@ -80,12 +80,12 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 4
             },
             "partId": "4",
             "soloMuteState": {
                 "mute": false,
-                "solo": false
+                "solo": true
             }
         },
         {
@@ -121,7 +121,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -4
             },
             "partId": "3",
             "soloMuteState": {
@@ -167,7 +167,7 @@
             "partId": "2",
             "soloMuteState": {
                 "mute": false,
-                "solo": true
+                "solo": false
             }
         },
         {
@@ -203,7 +203,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": -6
             },
             "partId": "1",
             "soloMuteState": {

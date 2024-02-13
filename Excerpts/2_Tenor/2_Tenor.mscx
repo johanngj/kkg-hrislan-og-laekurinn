@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>3284</LastEID>
+  <LastEID>3294</LastEID>
   <Score>
     <name>Tenor</name>
     <initialPartId>2</initialPartId>
@@ -108,22 +108,24 @@
               </linked>
             <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 75</text>
             </Tempo>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>14134737371171</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Rest>
-            <eid>8778913153049</eid>
+            <eid>14139032338457</eid>
             <linked>
               </linked>
             <dots>1</dots>
             <durationType>quarter</durationType>
             </Rest>
-          <BarLine>
-            <subtype>end</subtype>
-            <eid>8783208120332</eid>
-            <linked>
-              </linked>
-            </BarLine>
           </voice>
         </Measure>
       <Measure len="3/8">
+        <startRepeat/>
         <voice>
           <Chord>
             <eid>8787503087731</eid>
@@ -917,6 +919,13 @@
               <tpc>19</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>f</subtype>
+            <velocity>96</velocity>
+            <eid>14143327305763</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>9556302233715</eid>
             <linked>
@@ -1345,6 +1354,13 @@
               <tpc>17</tpc>
               </Note>
             </Chord>
+          <Dynamic>
+            <subtype>mf</subtype>
+            <velocity>80</velocity>
+            <eid>14147622273059</eid>
+            <linked>
+              </linked>
+            </Dynamic>
           <Chord>
             <eid>9839770075251</eid>
             <linked>
@@ -2154,6 +2170,7 @@
           </voice>
         </Measure>
       <Measure len="3/16">
+        <endRepeat>2</endRepeat>
         <voice>
           <Rest>
             <eid>10634339024921</eid>
