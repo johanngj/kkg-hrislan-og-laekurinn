@@ -5,18 +5,15 @@
     <rootfile full-path="HríslanoglækurinnSATB.mscx"/>
     <rootfile full-path="Excerpts/0_Soprano/0_Soprano.mss"/>
     <rootfile full-path="Excerpts/0_Soprano/0_Soprano.mscx"/>
-    <rootfile full-path="Excerpts/1_Part_3/1_Part_3.mss"/>
-    <rootfile full-path="Excerpts/1_Part_3/1_Part_3.mscx"/>
-    <rootfile full-path="Excerpts/2_Tenor/2_Tenor.mss"/>
-    <rootfile full-path="Excerpts/2_Tenor/2_Tenor.mscx"/>
-    <rootfile full-path="Excerpts/3_Part_4/3_Part_4.mss"/>
-    <rootfile full-path="Excerpts/3_Part_4/3_Part_4.mscx"/>
+    <rootfile full-path="Excerpts/1_Tenor/1_Tenor.mss"/>
+    <rootfile full-path="Excerpts/1_Tenor/1_Tenor.mscx"/>
+    <rootfile full-path="Excerpts/2_Alto/2_Alto.mss"/>
+    <rootfile full-path="Excerpts/2_Alto/2_Alto.mscx"/>
     <rootfile full-path="Thumbnails/thumbnail.png"/>
     <rootfile full-path="audiosettings.json"/>
     <rootfile full-path="viewsettings.json"/>
     <rootfile full-path="Excerpts/0_Soprano/viewsettings.json"/>
-    <rootfile full-path="Excerpts/2_Tenor/viewsettings.json"/>
-    <rootfile full-path="Excerpts/1_Part_3/viewsettings.json"/>
-    <rootfile full-path="Excerpts/3_Part_4/viewsettings.json"/>
+    <rootfile full-path="Excerpts/1_Tenor/viewsettings.json"/>
+    <rootfile full-path="Excerpts/2_Alto/viewsettings.json"/>
     </rootfiles>
   </container>
