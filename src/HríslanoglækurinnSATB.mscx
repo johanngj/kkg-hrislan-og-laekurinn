@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>8958</LastEID>
+  <LastEID>8970</LastEID>
   <Score>
     <layoutMode>system</layoutMode>
     <Division>480</Division>
@@ -225,7 +225,7 @@ Texti: Páll Ólafsson</text>
             <followText>1</followText>
             <eid>3612067495983</eid>
             <linkedMain/>
-            <text><sym>metNoteQuarterUp</sym><font face="Edwin"/> = 75</text>
+            <text><sym>metNoteQuarterUp</sym><font face="Edwin"></font> = 75</text>
             </Tempo>
           <Rest>
             <eid>25769803801</eid>
@@ -4441,18 +4441,12 @@ Texti: Páll Ólafsson</text>
             <eid>3607772528675</eid>
             <linkedMain/>
             </Dynamic>
-          <Chord>
-            <eid>36786394890355</eid>
+          <Rest>
+            <eid>38478612004889</eid>
             <linkedMain/>
             <dots>1</dots>
             <durationType>quarter</durationType>
-            <Note>
-              <eid>36790689857556</eid>
-              <linkedMain/>
-              <pitch>62</pitch>
-              <tpc>16</tpc>
-              </Note>
-            </Chord>
+            </Rest>
           </voice>
         </Measure>
       <Measure len="3/8">
@@ -6836,6 +6830,12 @@ Texti: Páll Ólafsson</text>
     <Staff id="4">
       <Measure>
         <voice>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <isHeader>1</isHeader>
+            <eid>38500086841365</eid>
+            </Clef>
           <KeySig>
             <eid>20044612370454</eid>
             <linkedMain/>
@@ -6860,8 +6860,8 @@ Texti: Páll Ólafsson</text>
           <Rest>
             <eid>20057497272345</eid>
             <linkedMain/>
-            <durationType>measure</durationType>
-            <duration>3/8</duration>
+            <dots>1</dots>
+            <durationType>quarter</durationType>
             </Rest>
           </voice>
         </Measure>
