@@ -51,18 +51,20 @@
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "museCategory": "Muse Choir",
+                        "museName": "Sopranos",
+                        "museUID": "19",
+                        "playbackSetupData": "voices.choir.soprano"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
+                    "id": "Muse Choir\\Sopranos\\19",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "grand-piano",
+            "instrumentId": "soprano",
             "out": {
                 "auxSends": [
                     {
@@ -79,28 +81,26 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "1",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
+            "partId": "1"
         },
         {
             "in": {
                 "resourceMeta": {
                     "attributes": {
-                        "playbackSetupData": "last.last.last",
-                        "soundFontName": "MS Basic"
+                        "museCategory": "Muse Choir",
+                        "museName": "Tenors",
+                        "museUID": "21",
+                        "playbackSetupData": "voices.choir.tenor"
                     },
                     "hasNativeEditorSupport": false,
-                    "id": "MS Basic",
-                    "type": "fluid_soundfont",
-                    "vendor": "Fluid"
+                    "id": "Muse Choir\\Tenors\\21",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
                 },
                 "unitConfiguration": {
                 }
             },
-            "instrumentId": "grand-piano",
+            "instrumentId": "tenor",
             "out": {
                 "auxSends": [
                     {
@@ -117,11 +117,43 @@
                 },
                 "volumeDb": 0
             },
-            "partId": "2",
-            "soloMuteState": {
-                "mute": false,
-                "solo": false
-            }
+            "partId": "2"
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Altos",
+                        "museUID": "20",
+                        "playbackSetupData": "voices.choir.alto"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Altos\\20",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "alto",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "3"
         },
         {
             "in": {
@@ -150,6 +182,42 @@
                 "mute": false,
                 "solo": false
             }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "museCategory": "Muse Choir",
+                        "museName": "Basses",
+                        "museUID": "22",
+                        "playbackSetupData": "voices.choir.bass"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "Muse Choir\\Basses\\22",
+                    "type": "muse_sampler_sound_pack",
+                    "vendor": "Muse Choir"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "bass",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": 0
+            },
+            "partId": "4"
         }
     ]
 }
