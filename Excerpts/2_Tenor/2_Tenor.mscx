@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>3294</LastEID>
+  <LastEID>3542</LastEID>
   <Score>
     <name>Tenor</name>
     <initialPartId>2</initialPartId>
@@ -139,6 +139,13 @@
                 </linked>
               <text>Gott</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14237816586280</eid>
+              <linked>
+                </linked>
+              <text>Svo</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8796093022228</eid>
@@ -160,6 +167,14 @@
                 </linked>
               <text>átt</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14242111553576</eid>
+              <linked>
+                </linked>
+              <text>þeg</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8813272891412</eid>
@@ -180,6 +195,14 @@
               <linked>
                 </linked>
               <text>þú</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14246406520872</eid>
+              <linked>
+                </linked>
+              <text>ar</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -207,6 +230,14 @@
                 </linked>
               <text>hrísl</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14250701488168</eid>
+              <linked>
+                </linked>
+              <text>síg</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8864812498964</eid>
@@ -228,6 +259,14 @@
               <linked>
                 </linked>
               <text>á</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14254996455464</eid>
+              <linked>
+                </linked>
+              <text>ur</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -251,6 +290,13 @@
                 </linked>
               <text>græn</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14259291422760</eid>
+              <linked>
+                </linked>
+              <text>sól</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8890582302740</eid>
@@ -272,6 +318,13 @@
               <linked>
                 </linked>
               <text>um</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14263586390056</eid>
+              <linked>
+                </linked>
+              <text>til</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -298,6 +351,14 @@
                 </linked>
               <text>bal</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14267881357352</eid>
+              <linked>
+                </linked>
+              <text>fjall</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8955006812180</eid>
@@ -319,6 +380,14 @@
               <linked>
                 </linked>
               <text>a,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14272176324648</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -342,6 +411,14 @@
                 </linked>
               <text>glöð</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14276471291944</eid>
+              <linked>
+                </linked>
+              <text>sveig</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8980776615956</eid>
@@ -364,6 +441,14 @@
                 </linked>
               <text>um</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14375255539752</eid>
+              <linked>
+                </linked>
+              <text>ir</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>8993661517844</eid>
@@ -384,6 +469,13 @@
               <linked>
                 </linked>
               <text>að</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14379550507048</eid>
+              <linked>
+                </linked>
+              <text>hún</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -411,6 +503,14 @@
                 </linked>
               <text>hlýð</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14383845474344</eid>
+              <linked>
+                </linked>
+              <text>nið</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9062380994580</eid>
@@ -432,6 +532,14 @@
               <linked>
                 </linked>
               <text>a</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14388140441640</eid>
+              <linked>
+                </linked>
+              <text>ur</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -461,6 +569,14 @@
                 </linked>
               <text>lækj</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14392435408936</eid>
+              <linked>
+                </linked>
+              <text>lim</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9092445765652</eid>
@@ -489,6 +605,14 @@
                 </linked>
               <text>ar</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <eid>14396730376232</eid>
+              <linked>
+                </linked>
+              <text>arn</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9109625634836</eid>
@@ -514,6 +638,14 @@
                 </linked>
               <text>nið.</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14401025343528</eid>
+              <linked>
+                </linked>
+              <text>ar</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9165460209684</eid>
@@ -534,6 +666,14 @@
               <linked>
                 </linked>
               <text>Þið</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14405320310824</eid>
+              <linked>
+                </linked>
+              <text>læt</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -557,6 +697,14 @@
                 </linked>
               <text>meg</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14409615278120</eid>
+              <linked>
+                </linked>
+              <text>ur</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9191230013460</eid>
@@ -578,6 +726,13 @@
               <linked>
                 </linked>
               <text>ið</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14413910245416</eid>
+              <linked>
+                </linked>
+              <text>á</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -605,6 +760,14 @@
                 </linked>
               <text>sam</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14418205212712</eid>
+              <linked>
+                </linked>
+              <text>kvöld</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9251359555604</eid>
@@ -626,6 +789,14 @@
               <linked>
                 </linked>
               <text>an</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14534169329704</eid>
+              <linked>
+                </linked>
+              <text>in</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -649,6 +820,14 @@
                 </linked>
               <text>ald</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14538464297000</eid>
+              <linked>
+                </linked>
+              <text>lauf</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9277129359380</eid>
@@ -670,6 +849,14 @@
               <linked>
                 </linked>
               <text>ur</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14542759264296</eid>
+              <linked>
+                </linked>
+              <text>blöð</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -696,6 +883,14 @@
                 </linked>
               <text>al</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14547054231592</eid>
+              <linked>
+                </linked>
+              <text>fall</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9341553868820</eid>
@@ -717,6 +912,14 @@
               <linked>
                 </linked>
               <text>a,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14551349198888</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -740,6 +943,13 @@
                 </linked>
               <text>unn</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14555644166184</eid>
+              <linked>
+                </linked>
+              <text>í</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9367323672596</eid>
@@ -762,6 +972,14 @@
                 </linked>
               <text>ast</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14559939133480</eid>
+              <linked>
+                </linked>
+              <text>læk</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9380208574484</eid>
@@ -782,6 +1000,14 @@
               <linked>
                 </linked>
               <text>og</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14564234100776</eid>
+              <linked>
+                </linked>
+              <text>inn</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -808,6 +1034,13 @@
                 </linked>
               <text>sjást</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14568529068072</eid>
+              <linked>
+                </linked>
+              <text>honum</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9448928051220</eid>
@@ -828,6 +1061,13 @@
               <linked>
                 </linked>
               <text>og</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14572824035368</eid>
+              <linked>
+                </linked>
+              <text>til</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -857,6 +1097,14 @@
                 </linked>
               <text>tal</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14577119002664</eid>
+              <linked>
+                </linked>
+              <text>un</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9478992822292</eid>
@@ -885,6 +1133,14 @@
                 </linked>
               <text>ast</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <eid>14581413969960</eid>
+              <linked>
+                </linked>
+              <text>un</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9496172691476</eid>
@@ -909,6 +1165,14 @@
               <linked>
                 </linked>
               <text>við.</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14585708937256</eid>
+              <linked>
+                </linked>
+              <text>ar.</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -938,6 +1202,14 @@
                 </linked>
               <text>Það</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14632953577512</eid>
+              <linked>
+                </linked>
+              <text>Hvísl</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9564892168212</eid>
@@ -959,6 +1231,14 @@
               <linked>
                 </linked>
               <text>slít</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14637248544808</eid>
+              <linked>
+                </linked>
+              <text>ar</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -986,6 +1266,13 @@
                 </linked>
               <text>ur</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14641543512104</eid>
+              <linked>
+                </linked>
+              <text>þá</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9594956939284</eid>
@@ -1009,7 +1296,15 @@
               <eid>9620726743080</eid>
               <linked>
                 </linked>
-              <text>a</text>
+              <text>aldr</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14645838479400</eid>
+              <linked>
+                </linked>
+              <text>lækj</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -1039,13 +1334,6 @@
               </linked>
             <BeamMode>begin</BeamMode>
             <durationType>eighth</durationType>
-            <Lyrics>
-              <syllabic>middle</syllabic>
-              <eid>9637906612264</eid>
-              <linked>
-                </linked>
-              <text>aldr</text>
-              </Lyrics>
             <Spanner type="Slur">
               <prev>
                 <location>
@@ -1073,6 +1361,14 @@
                 </linked>
               <text>ei</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14650133446696</eid>
+              <linked>
+                </linked>
+              <text>ar</text>
+              </Lyrics>
             <Note>
               <eid>9655086481428</eid>
               <linked>
@@ -1093,6 +1389,14 @@
               <linked>
                 </linked>
               <text>ykk</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14680198217768</eid>
+              <linked>
+                </linked>
+              <text>blá</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1115,6 +1419,14 @@
               <linked>
                 </linked>
               <text>ar</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14684493185064</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1141,6 +1453,14 @@
                 </linked>
               <text>fund</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14688788152360</eid>
+              <linked>
+                </linked>
+              <text>bun</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9702331121684</eid>
@@ -1162,6 +1482,14 @@
               <linked>
                 </linked>
               <text>i,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14830522073128</eid>
+              <linked>
+                </linked>
+              <text>an</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1185,6 +1513,14 @@
                 </linked>
               <text>in</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14834817040424</eid>
+              <linked>
+                </linked>
+              <text>bros</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9728100925460</eid>
@@ -1207,6 +1543,14 @@
                 </linked>
               <text>dæl</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <eid>14839112007720</eid>
+              <linked>
+                </linked>
+              <text>and</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9740985827348</eid>
@@ -1227,6 +1571,14 @@
               <linked>
                 </linked>
               <text>þig</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14843406975016</eid>
+              <linked>
+                </linked>
+              <text>i</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1254,6 +1606,14 @@
                 </linked>
               <text>svæf</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14847701942312</eid>
+              <linked>
+                </linked>
+              <text>kyss</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9775345565716</eid>
@@ -1275,6 +1635,14 @@
               <linked>
                 </linked>
               <text>a</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14851996909608</eid>
+              <linked>
+                </linked>
+              <text>ir</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1298,6 +1666,14 @@
                 </linked>
               <text>ljóð</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14856291876904</eid>
+              <linked>
+                </linked>
+              <text>lauf</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9801115369492</eid>
@@ -1319,6 +1695,14 @@
               <linked>
                 </linked>
               <text>in</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14860586844200</eid>
+              <linked>
+                </linked>
+              <text>ið</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1344,6 +1728,13 @@
               <linked>
                 </linked>
               <text>hans.</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14864881811496</eid>
+              <linked>
+                </linked>
+              <text>þitt:</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1374,6 +1765,13 @@
                 </linked>
               <text>Vekj</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14869176778792</eid>
+              <linked>
+                </linked>
+              <text>&quot;Þig</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9848360009748</eid>
@@ -1396,6 +1794,13 @@
                 </linked>
               <text>a</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14873471746088</eid>
+              <linked>
+                </linked>
+              <text>skal</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9861244911636</eid>
@@ -1416,6 +1821,13 @@
               <linked>
                 </linked>
               <text>þig</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>14877766713384</eid>
+              <linked>
+                </linked>
+              <text>ég</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1442,6 +1854,14 @@
                 </linked>
               <text>æ</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14882061680680</eid>
+              <linked>
+                </linked>
+              <text>æ</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9921374453780</eid>
@@ -1462,6 +1882,14 @@
               <linked>
                 </linked>
               <text>af</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14886356647976</eid>
+              <linked>
+                </linked>
+              <text>tíð,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1485,6 +1913,14 @@
                 </linked>
               <text>blíð</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>14890651615272</eid>
+              <linked>
+                </linked>
+              <text>æ</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>9947144257556</eid>
@@ -1506,6 +1942,14 @@
               <linked>
                 </linked>
               <text>um</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>14894946582568</eid>
+              <linked>
+                </linked>
+              <text>tíð</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1532,6 +1976,14 @@
                 </linked>
               <text>blund</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15071040241704</eid>
+              <linked>
+                </linked>
+              <text>mun</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10007273799700</eid>
@@ -1553,6 +2005,14 @@
               <linked>
                 </linked>
               <text>i,</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15075335209000</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1576,6 +2036,14 @@
                 </linked>
               <text>brenn</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15079630176296</eid>
+              <linked>
+                </linked>
+              <text>ást</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10033043603476</eid>
@@ -1598,6 +2066,14 @@
                 </linked>
               <text>and</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <eid>15083925143592</eid>
+              <linked>
+                </linked>
+              <text>rík</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10045928505364</eid>
@@ -1619,6 +2095,14 @@
               <linked>
                 </linked>
               <text>i</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15088220110888</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1646,6 +2130,14 @@
                 </linked>
               <text>koss</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15092515078184</eid>
+              <linked>
+                </linked>
+              <text>blíð</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10114647982100</eid>
@@ -1667,6 +2159,14 @@
               <linked>
                 </linked>
               <text>ar</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15096810045480</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1696,6 +2196,14 @@
                 </linked>
               <text>unn</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15101105012776</eid>
+              <linked>
+                </linked>
+              <text>hjart</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10149007720468</eid>
@@ -1724,6 +2232,14 @@
                 </linked>
               <text>ust</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15105399980072</eid>
+              <linked>
+                </linked>
+              <text>að</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10166187589652</eid>
@@ -1748,6 +2264,13 @@
               <linked>
                 </linked>
               <text>ans</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>15109694947368</eid>
+              <linked>
+                </linked>
+              <text>mitt&quot;.</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1777,6 +2300,13 @@
                 </linked>
               <text>Vekj</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>15113989914664</eid>
+              <linked>
+                </linked>
+              <text>&quot;Þig</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10239202033684</eid>
@@ -1799,6 +2329,13 @@
                 </linked>
               <text>a</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>15118284881960</eid>
+              <linked>
+                </linked>
+              <text>skal</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10252086935572</eid>
@@ -1819,6 +2356,13 @@
               <linked>
                 </linked>
               <text>þig</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>15122579849256</eid>
+              <linked>
+                </linked>
+              <text>ég</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1845,6 +2389,14 @@
                 </linked>
               <text>æ</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15126874816552</eid>
+              <linked>
+                </linked>
+              <text>æ</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10316511445012</eid>
@@ -1865,6 +2417,14 @@
               <linked>
                 </linked>
               <text>af</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15131169783848</eid>
+              <linked>
+                </linked>
+              <text>tíð,</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1888,6 +2448,14 @@
                 </linked>
               <text>blíð</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15135464751144</eid>
+              <linked>
+                </linked>
+              <text>æ</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10342281248788</eid>
@@ -1909,6 +2477,14 @@
               <linked>
                 </linked>
               <text>um</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15139759718440</eid>
+              <linked>
+                </linked>
+              <text>tíð</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1935,6 +2511,14 @@
                 </linked>
               <text>blund</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15144054685736</eid>
+              <linked>
+                </linked>
+              <text>mun</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10402410790932</eid>
@@ -1956,6 +2540,14 @@
               <linked>
                 </linked>
               <text>i</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15148349653032</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -1979,6 +2571,14 @@
                 </linked>
               <text>brenn</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15152644620328</eid>
+              <linked>
+                </linked>
+              <text>ást</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10428180594708</eid>
@@ -2001,6 +2601,14 @@
                 </linked>
               <text>and</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>middle</syllabic>
+              <eid>15217069129768</eid>
+              <linked>
+                </linked>
+              <text>rík</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10441065496596</eid>
@@ -2022,6 +2630,14 @@
               <linked>
                 </linked>
               <text>i</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15221364097064</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2049,6 +2665,14 @@
                 </linked>
               <text>koss</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15225659064360</eid>
+              <linked>
+                </linked>
+              <text>blíð</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10509784973332</eid>
@@ -2070,6 +2694,14 @@
               <linked>
                 </linked>
               <text>ar</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15229954031656</eid>
+              <linked>
+                </linked>
+              <text>a</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
@@ -2099,6 +2731,14 @@
                 </linked>
               <text>unn</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>begin</syllabic>
+              <eid>15234248998952</eid>
+              <linked>
+                </linked>
+              <text>hjart</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10539849744404</eid>
@@ -2127,6 +2767,14 @@
                 </linked>
               <text>ust</text>
               </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <syllabic>end</syllabic>
+              <eid>15238543966248</eid>
+              <linked>
+                </linked>
+              <text>að</text>
+              </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>
               <eid>10557029613588</eid>
@@ -2150,7 +2798,14 @@
               <eid>10608569221160</eid>
               <linked>
                 </linked>
-              <text>ans</text>
+              <text>ans.</text>
+              </Lyrics>
+            <Lyrics>
+              <no>1</no>
+              <eid>15242838933544</eid>
+              <linked>
+                </linked>
+              <text>mitt.&quot;</text>
               </Lyrics>
             <StemDirection>up</StemDirection>
             <Note>

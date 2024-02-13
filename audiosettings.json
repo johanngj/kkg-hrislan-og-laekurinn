@@ -85,7 +85,7 @@
             "partId": "4",
             "soloMuteState": {
                 "mute": false,
-                "solo": true
+                "solo": false
             }
         },
         {
