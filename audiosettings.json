@@ -53,6 +53,47 @@
                     "attributes": {
                         "playbackSetupData": "last.last.last",
                         "presetBank": "0",
+                        "presetName": "Cello",
+                        "presetProgram": "42",
+                        "soundFontName": "MS Basic"
+                    },
+                    "hasNativeEditorSupport": false,
+                    "id": "MS Basic\\0\\42",
+                    "type": "fluid_soundfont",
+                    "vendor": "Fluid"
+                },
+                "unitConfiguration": {
+                }
+            },
+            "instrumentId": "tenor",
+            "out": {
+                "auxSends": [
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    },
+                    {
+                        "active": true,
+                        "signalAmount": 0.30000001192092896
+                    }
+                ],
+                "balance": 0,
+                "fxChain": {
+                },
+                "volumeDb": -7.300000190734863
+            },
+            "partId": "5",
+            "soloMuteState": {
+                "mute": false,
+                "solo": false
+            }
+        },
+        {
+            "in": {
+                "resourceMeta": {
+                    "attributes": {
+                        "playbackSetupData": "last.last.last",
+                        "presetBank": "0",
                         "presetName": "Contrabass",
                         "presetProgram": "43",
                         "soundFontName": "MS Basic"
@@ -80,7 +121,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 4
+                "volumeDb": 0
             },
             "partId": "4",
             "soloMuteState": {
@@ -121,7 +162,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -4
+                "volumeDb": 0
             },
             "partId": "3",
             "soloMuteState": {
@@ -162,7 +203,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": 0
+                "volumeDb": 0.8999999761581421
             },
             "partId": "2",
             "soloMuteState": {
@@ -203,7 +244,7 @@
                 "balance": 0,
                 "fxChain": {
                 },
-                "volumeDb": -6
+                "volumeDb": 0
             },
             "partId": "1",
             "soloMuteState": {
