@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>8948</LastEID>
+  <LastEID>8958</LastEID>
   <Score>
     <name>Bassi+solo</name>
     <Division>480</Division>
@@ -249,6 +249,13 @@ Texti: Páll Ólafsson</text>
             <durationType>measure</durationType>
             <duration>3/4</duration>
             </Rest>
+          <Clef>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
+            <eid>38452842201109</eid>
+            <linked>
+              </linked>
+            </Clef>
           </voice>
         </Measure>
       <Measure>

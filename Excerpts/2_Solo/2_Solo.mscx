@@ -2,7 +2,7 @@
 <museScore version="4.20">
   <programVersion>4.2.1</programVersion>
   <programRevision>d757433</programRevision>
-  <LastEID>8948</LastEID>
+  <LastEID>8958</LastEID>
   <Score>
     <name>Solo</name>
     <Division>480</Division>
@@ -113,8 +113,8 @@ Texti: Páll Ólafsson</text>
       <Measure>
         <voice>
           <Clef>
-            <concertClefType>G8vb</concertClefType>
-            <transposingClefType>G8vb</transposingClefType>
+            <concertClefType>F</concertClefType>
+            <transposingClefType>F</transposingClefType>
             <isHeader>1</isHeader>
             <eid>17433272254485</eid>
             <linked>
@@ -677,6 +677,13 @@ Texti: Páll Ólafsson</text>
               <tpc>14</tpc>
               </Note>
             </Chord>
+          <Clef>
+            <concertClefType>G8vb</concertClefType>
+            <transposingClefType>G8vb</transposingClefType>
+            <eid>38465727102997</eid>
+            <linked>
+              </linked>
+            </Clef>
           </voice>
         </Measure>
       <Measure>
